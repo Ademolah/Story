@@ -1,1 +1,1 @@
-Building a fintech mobile application is a cool software engineering activity.
+Building a fintech mobile application is a cool software engineering activity, but it should be able to also process alien transactions.
